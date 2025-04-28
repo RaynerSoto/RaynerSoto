@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Soy Rayner Alejandro Soto Martínez, un Desarrollador de Software con más de 3 años de experiencia. Me especializo en el desarrollo Backend, y me apasiona crear aplicaciones robustas y eficientes utilizando Java (JDK 17/21) y Spring Framework (Spring Boot, Spring Data JPA, Spring Security, Spring Cloud). Tengo un alto nivel de experiencia en el diseño y optimización de bases de datos relacionales (PostgreSQL) y en la creación de consultas SQL, utilizando JDBC y JPA/Hibernate para garantizar la integridad y el rendimiento de la capa de datos.   
+
+Soy experto en el desarrollo de APIs RESTful y en la implementación de arquitecturas de microservicios, lo que me permite construir sistemas escalables y de fácil mantenimiento. Además, tengo experiencia práctica en la integración de datos geoespaciales y en la automatización de la generación de informes con Apache POI. Mis habilidades en DevOps (Docker, GitHub, Spring Actuator) me permiten contribuir eficazmente al desarrollo, la implementación y el monitoreo de aplicaciones.   
+
+A lo largo de mi carrera, he trabajado en diversos proyectos, incluyendo la migración de sistemas de escritorio a soluciones web multiplataforma, el diseño de APIs RESTful para datos geoespaciales y la automatización de la carga de datos desde Excel. También he optimizado modelos de bases de datos para mejorar la gestión de información y he documentado los cambios realizados para asegurar la mantenibilidad de los sistemas. Actualmente, en Arkon Data, estoy explorando el desarrollo backend con Scala y la programación funcional.   
+
+Me considero una persona proactiva, motivada y siempre enfocada en aportar valor a través de soluciones innovadoras.
